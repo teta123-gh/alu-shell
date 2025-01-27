@@ -1,2 +1,3 @@
-My readme
+#!/bin/bash
+my alu shell
 
